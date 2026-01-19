@@ -5,7 +5,7 @@ Sistem; sıcaklık, nem ve toprak nemi verilerine göre sera içi koşulları ot
 
 
 Wokwi Simülasyon
-👉
+👉 https://wokwi.com/projects/428389643677696001
 
 
 ⚙️ Sistem Özellikleri
